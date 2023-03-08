@@ -301,6 +301,10 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
+  ul {
+    list-style-type: none;
+  }
+
   
   .card {
     background-color: var(--global-card-bg-color);

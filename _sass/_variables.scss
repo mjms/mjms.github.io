@@ -22,7 +22,12 @@ $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
-$marina-highlight:    #00daf7 !default;
+
+$mjms-contrast:       #588157 !default;
+$mjms-bg:             #f7f4eb !default;
+$mjms-card:           #FAF8EF !default;
+$mjms-hover:          #CB7575!default;
+
 
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
