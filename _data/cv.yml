@@ -40,24 +40,24 @@
       institution: New York University, New York, NY, USA 
       year: 2012-2013
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - year: 2019
-      title: Teaching Assistant, Cognitive Neuroscience
-      institution: University Of Chicago, Chicago, IL, USA 
-    - year: 2018
-      title: Instructor
-      institution: Girls 4 Science, Chicago, IL, USA 
-    - year: 2018
-      title: Teaching Assistant, 3D Modelling and Printing 
-      institution: University of Chicago Materials Research Center, Chicago, IL, USA  
-    - year: 2018
-      title: Instructor, Maker’s Mondays
-      institution: Hyde Park Neighborhood Club, Chicago, IL, USA 
-    - year: 2018
-      title: Teaching Assistant, Undergraduate Neuroscience Lab
-      institution: University Of Chicago, Chicago, IL, USA
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - year: 2019
+#       title: Teaching Assistant, Cognitive Neuroscience
+#       institution: University Of Chicago, Chicago, IL, USA 
+#     - year: 2018
+#       title: Instructor
+#       institution: Girls 4 Science, Chicago, IL, USA 
+#     - year: 2018
+#       title: Teaching Assistant, 3D Modelling and Printing 
+#       institution: University of Chicago Materials Research Center, Chicago, IL, USA  
+#     - year: 2018
+#       title: Instructor, Maker’s Mondays
+#       institution: Hyde Park Neighborhood Club, Chicago, IL, USA 
+#     - year: 2018
+#       title: Teaching Assistant, Undergraduate Neuroscience Lab
+#       institution: University Of Chicago, Chicago, IL, USA
 
 - title: Honors and Awards
   type: time_table
@@ -79,19 +79,19 @@
       institution: New York University - London, London, UK
       description: For contributions to  Marie Curie Cancer Care, Cancer Research UK, and Starfish Greathearts Foundation
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

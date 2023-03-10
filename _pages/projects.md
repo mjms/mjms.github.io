@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description:
+description: non-exhaustive list of projects (working through a backlog)
 nav: true
 nav_order: 1
-display_categories: [work, neuroscience, art]
+display_categories: 
 horizontal: false
 ---
 
