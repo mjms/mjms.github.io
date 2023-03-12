@@ -15,9 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Marina! My research interests lie in the intersection of nature and computation. 
-
+Hi!
 
 Most recently, I finished my PhD in Computational Neuroscience at the University of Chicago with [Dr. Nicho Hatsopoulos](https://hatsopouloslab.uchicago.edu/) where I studied the temporal dynamics of motor cortical neural networks during goal-directed behavior.
 
-I am a generalist: a rapid prototyper, an avid gardener and food grower, with a pottery side-hustle.
+Currently, I am interested in studying dynamics of other networked systems such as urban and natural environments.
+
+I am also a creative coder, rapid prototyper, gardener and food grower, with a pottery side-hustle. 
